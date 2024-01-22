@@ -1,5 +1,0 @@
-/Users/ggam-nyang/Passions/C++/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ggam-nyang/Passions/C++/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ggam-nyang/Passions/C++/algorithm/cmake-build-debug/programmers/CMakeFiles/12925.dir
-/Users/ggam-nyang/Passions/C++/algorithm/cmake-build-debug/programmers/CMakeFiles/edit_cache.dir
-/Users/ggam-nyang/Passions/C++/algorithm/cmake-build-debug/programmers/CMakeFiles/rebuild_cache.dir
