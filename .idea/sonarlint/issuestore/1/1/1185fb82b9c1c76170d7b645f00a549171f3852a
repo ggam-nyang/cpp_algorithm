@@ -1,0 +1,5 @@
+
+x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(­õ¿¨ûÿÿÿÿ8‰Ÿ•©Ó1
+r	cpp:S5276#"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(×–›8ÊÄ‹©Ó1
+X	cpp:S1238"<Pass expensive to copy object "cards" by reference to const.(º¸±‹8ˆ¸›©Ó1
+r	cpp:S1172"VRemove the unused parameter "coin", make it unnamed, or declare it "[[maybe_unused]]".(º¸±‹8Â†¬©Ó1
