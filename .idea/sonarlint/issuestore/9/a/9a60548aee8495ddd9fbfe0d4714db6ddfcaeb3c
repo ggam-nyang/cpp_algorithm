@@ -1,11 +1,7 @@
 
 W	cpp:S5276 "<implicit conversion loses integer precision: 'int' to 'char'(Á‹í8–ƒî×Ô1
 ]	cpp:S5276!"<implicit conversion loses integer precision: 'int' to 'char'(Í¹Ž¨ýÿÿÿÿ8—ƒî×Ô1
-k	cpp:S5276_"Oimplicit conversion loses integer precision: 'int' to 'value_type' (aka 'char')(‚žŒó8—ƒî×Ô1
-Scpp:S9549"8Move these 4 #include directives to the top of the file.(—µ¸¥8¬ƒî×Ô1
 @	cpp:S6197 "%Replace with "std::ranges::for_each".(Á‹í8µƒî×Ô1
 F	cpp:S6197!"%Replace with "std::ranges::for_each".(Í¹Ž¨ýÿÿÿÿ8¶ƒî×Ô1
 =	cpp:S6197/"!Replace with "std::ranges::sort".(ë°¯Ç8½ƒî×Ô1
-=	cpp:S5421F"!Global variables should be const.(ø™—š8Ãƒî×Ô1
-=	cpp:S6197j"!Replace with "std::ranges::sort".(á ¡ö8Æƒî×Ô1
-l	cpp:S5566k"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(ÔóÊËÿÿÿÿÿ8Ô¦î×Ô1
+8cpp:S1258"Remove the commented out code.(è»»_8Ù³ï×Ô1

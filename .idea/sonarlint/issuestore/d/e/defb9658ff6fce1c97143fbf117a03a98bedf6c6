@@ -1,0 +1,7 @@
+
+g	cpp:S5566"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(‡éºþ8ûô—‚Õ1
+o	cpp:S6045"TUse the transparent comparator "std::less<>" with this associative string container.(Êõ’q8âœßÕ1
+Q	cpp:S6030"0Replace this use of "insert" with "try_emplace".(ÌœÌüÿÿÿÿ8âœßÕ1
+;	cpp:S6171"Use "contains" member function.(½±Àö8‚ØÏ‚Õ1
+Q	cpp:S6030"0Replace this use of "insert" with "try_emplace".(Ëê»«ûÿÿÿÿ8ƒØÏ‚Õ1
+>cpp:S125"Remove the commented out code.(Æ›ŠÝþÿÿÿÿ8¼ÚÐ‚Õ1
