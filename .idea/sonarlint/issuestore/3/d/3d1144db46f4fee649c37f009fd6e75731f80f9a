@@ -1,0 +1,14 @@
+
+Y	cpp:S5945
+"=Use "std::array" or "std::vector" instead of a C-style array.(Ê»››8ÉÁÊÿÕ1
+=	cpp:S5421
+"!Global variables should be const.(Ê»››8ÉÁÊÿÕ1
+^	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(±™ÿÿÿÿÿ8ÉÁÊÿÕ1
+B	cpp:S5421"!Global variables should be const.(±™ÿÿÿÿÿ8ÉÁÊÿÕ1
+B	cpp:S5421"!Global variables should be const.(şü´ƒşÿÿÿÿ8ÉÁÊÿÕ1
+=	cpp:S5421"!Global variables should be const.(¥¦§£8ÊÁÊÿÕ1
+p	cpp:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 25 allowed.(•òéù8ÊÁÊÿÕ1
+hcpp:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(àªñê8ÊÁÊÿÕ1
+mcpp:S134!"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ª×Éˆüÿÿÿÿ8ÊÁÊÿÕ1
+mcpp:S1347"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Í¿äûÿÿÿÿ8×ÁÊÿÕ1
+Y	cpp:S6005-"=Replace this declaration by a structured binding declaration.(¢áàˆ8ØÁÊÿÕ1

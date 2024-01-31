@@ -5,4 +5,6 @@ add_executable(12925 12925.cpp
         12939.cpp
         17686.cpp
         17684.cpp
-        131704.cpp)
+        131704.cpp
+        17679.cpp
+        17679.cpp)
