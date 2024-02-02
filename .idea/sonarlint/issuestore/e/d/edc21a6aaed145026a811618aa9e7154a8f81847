@@ -1,0 +1,4 @@
+
+^	cpp:S1238	"=Pass expensive to copy object "cities" by reference to const.(ÂµÜ¦ÿÿÿÿÿ8¦ÊÖ1
+u	cpp:S6045"TUse the transparent comparator "std::less<>" with this associative string container.(ÁÚÑøùÿÿÿÿ8¢©‡ÊÖ1
+:	cpp:S6171"Use "contains" member function.(ù©æ+8¨ÊÖ1

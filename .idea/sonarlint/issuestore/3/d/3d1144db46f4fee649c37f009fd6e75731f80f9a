@@ -9,6 +9,6 @@ B	cpp:S5421"!Global variables should be const.(þüดþÿÿÿÿ8ษมสÿี1
 =	cpp:S5421"!Global variables should be const.(ฅฆงฃ8สมสÿี1
 p	cpp:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 25 allowed.(•๒้๙8สมสÿี1
 hcpp:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(เช๑๊8สมสÿี1
-mcpp:S134!"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ชืษüÿÿÿÿ8สมสÿี1
-mcpp:S1347"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(อฟไ๛ÿÿÿÿ8ืมสÿี1
-Y	cpp:S6005-"=Replace this declaration by a structured binding declaration.(ขแเ8ุมสÿี1
+mcpp:S134 "MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ชืษüÿÿÿÿ8สมสÿี1
+mcpp:S1346"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(อฟไ๛ÿÿÿÿ8ืมสÿี1
+Y	cpp:S6005,"=Replace this declaration by a structured binding declaration.(ขแเ8ุมสÿี1
