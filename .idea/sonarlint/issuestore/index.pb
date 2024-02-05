@@ -26,3 +26,5 @@ E
 programmers/17679.cpp,3/d/3d1144db46f4fee649c37f009fd6e75731f80f9a
 E
 programmers/17680.cpp,e/d/edc21a6aaed145026a811618aa9e7154a8f81847
+E
+programmers/42889.cpp,c/4/c45552bb2df4755d204c320ce8057a68b64b50c6

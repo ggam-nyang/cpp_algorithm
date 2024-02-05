@@ -1,0 +1,5 @@
+
+Y	cpp:S1238"=Pass expensive to copy object "stages" by reference to const.(¥ÄãÃ8ÎñÖÍ×1
+B	cpp:S6197!"!Replace with "std::ranges::sort".(¨ñˆ¢øÿÿÿÿ8ÏñÖÍ×1
+^	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(ËøÌ£ıÿÿÿÿ8‰ñ–Í×1
+^	cpp:S3519"BOut of bound memory access (accessed memory precedes memory block)(¿êÑê8ŸòÖÍ×1
