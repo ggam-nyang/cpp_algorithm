@@ -32,3 +32,5 @@ E
 programmers/12981.cpp,1/2/12f93a56dda345e10b466a68a57dd7196e2a7ec7
 E
 programmers/12980.cpp,b/3/b379340d0ebb7d7dd591ac9067cd394e2952617f
+E
+programmers/12916.cpp,2/d/2d5d6910c4aacaf040429447fb0245731068cd34

@@ -1,0 +1,8 @@
+
+ 	cpp:S5276	"ƒimplicit conversion loses integer precision: 'typename iterator_traits<__wrap_iter<char *>>::difference_type' (aka 'long') to 'int'(Öâå¥8¥Ÿ©òØ1
+¥	cpp:S5276
+"ƒimplicit conversion loses integer precision: 'typename iterator_traits<__wrap_iter<char *>>::difference_type' (aka 'long') to 'int'(Ÿ­ñÿøÿÿÿÿ8¦Ÿ©òØ1
+G	cpp:S6197"&Replace with "std::ranges::transform".(øÎ•·üÿÿÿÿ8ù—¥òØ1
+>	cpp:S6197	""Replace with "std::ranges::count".(Öâå¥8¼Ÿ©òØ1
+C	cpp:S6197
+""Replace with "std::ranges::count".(Ÿ­ñÿøÿÿÿÿ8½Ÿ©òØ1
