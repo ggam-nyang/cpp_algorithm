@@ -34,3 +34,5 @@ E
 programmers/12980.cpp,b/3/b379340d0ebb7d7dd591ac9067cd394e2952617f
 E
 programmers/12916.cpp,2/d/2d5d6910c4aacaf040429447fb0245731068cd34
+E
+programmers/12982.cpp,a/9/a922da05a6391a463fd08b5c49c540680b624fa3
