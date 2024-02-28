@@ -1,0 +1,15 @@
+
+y	cpp:S5276"]implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'const int'(ÆÂÔø8éÉƒñŞ1
+~	cpp:S5276"]implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'const int'(ùş¯åıÿÿÿÿ8éÉƒñŞ1
+cpp:S995"‚Make the type of this parameter a reference-to-const. The current type of "key" is "class std::vector<class std::vector<int> > &".(Â¤Í8²ï¹òŞ1
+p	cpp:S37761"TRefactor this function to reduce its Cognitive Complexity from 43 to the 25 allowed.(ÁÅîÔ8ï¢ÒóŞ1
+gcpp:S134<"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(›µÚ<8ï¢ÒóŞ1
+mcpp:S134I"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ıÓ¾¨øÿÿÿÿ8ï¢ÒóŞ1
+©cpp:S9951"Make the type of this parameter a reference-to-const. The current type of "lockPoints" is "class std::vector<struct std::pair<int, int> > &".(ÁÅîÔ8 ™îóŞ1
+^	cpp:S60055"=Replace this declaration by a structured binding declaration.(¼¬ÕĞşÿÿÿÿ8ó¢ÒóŞ1
+Y	cpp:S60056"=Replace this declaration by a structured binding declaration.(åÎ¼8ô¢ÒóŞ1
+^	cpp:S60058"=Replace this declaration by a structured binding declaration.(ÕĞ»çüÿÿÿÿ8õ¢ÒóŞ1
+M	cpp:S1066="1Merge this "if" statement with the enclosing one.(Ê¾Ï§8ö¢ÒóŞ1
+>cpp:S125("Remove the commented out code.(¥Æò°ıÿÿÿÿ8áö°óŞ1
+>cpp:S1259"Remove the commented out code.(å—êşÿÿÿÿ8ÁûøòŞ1
+9cpp:S125B"Remove the commented out code.(Óîî‚8ÁûøòŞ1
