@@ -58,3 +58,7 @@ K
 programmers/72410/README.md,4/5/45a597b017dc10fd3a85961b6b1c9397ac61b22a
 K
 programmers/72410/72410.cpp,8/1/81f3167ccd5102b815bbe249f2fc81cfd646f165
+K
+programmers/72412/README.md,5/f/5f0cc27d2b9a31fd5cf43ae022bf9b9e7f59f2b3
+K
+programmers/72412/72412.cpp,0/9/09724ac229095da987a3796bada315b28284dd55

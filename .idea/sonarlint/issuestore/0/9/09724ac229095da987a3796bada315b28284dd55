@@ -1,0 +1,8 @@
+
+Ñ	cpp:S5276G"‰implicit conversion loses integer precision: 'typename iterator_traits<__wrap_iter<const Info *>>::difference_type' (aka 'long') to 'int'(èÁ·åÿÿÿÿÿ8Ôª Õå1J$b785d1be-e3ba-40e8-be9c-78ed0b047e1b
+«cpp:S995F"eMake the type of this parameter a reference-to-const. The current type of "qInfo" is "struct Info &".(·•åşÿÿÿÿ8øª Õå1J$a40382b3-ea28-4b95-bd78-e10c600e9f0e
+l	cpp:S6197G"%Replace with "std::ranges::count_if".(èÁ·åÿÿÿÿÿ8øª Õå1J$4d818112-721b-41f4-8dc2-5f6cf487e0e1
+}	cpp:S1238M";Pass expensive to copy object "info" by reference to const.(¥“¢ˆ8ËáÌÕå1J$0baffe10-d482-4e53-9a54-61e4a97c28d3
+~	cpp:S1238M"<Pass expensive to copy object "query" by reference to const.(¥“¢ˆ8ËáÌÕå1J$beccaa85-ce01-431d-a977-05edba29f764
+	cpp:S6005Y"=Replace this declaration by a structured binding declaration.(µ‚Á˜8„×¢Õå1J$ae2413ca-6597-4ced-8a91-dcde3724efee
+„	cpp:S6005Z"=Replace this declaration by a structured binding declaration.(´‡ ‚ıÿÿÿÿ8Š¶©Õå1J$43f493d6-1bc2-4563-b616-5153fa8991e1
