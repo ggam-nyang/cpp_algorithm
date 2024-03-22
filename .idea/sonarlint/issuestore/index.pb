@@ -66,3 +66,5 @@ K
 test.cpp,7/c/7c2f7af2ea03aa8b2d096590e5c0fe9eb0dbaacd
 K
 programmers/77485/README.md,7/e/7ed55fb3e089af6819b42f428243cf4d36813320
+L
+programmers/258712/README.md,5/2/52e0207d91f834291f244c4abdb007785ce40a7b

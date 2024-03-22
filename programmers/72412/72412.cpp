@@ -43,12 +43,8 @@ vector<int> solution(vector<string> info, vector<string> query) {
     for (const auto &in : info) {
         vector<string> splitInfo = split(in, ' ');
         Info temp = Info::fromStr(splitInfo);
-        scores[temp.language][temp.isFE][temp.isSenior][temp.isPizza].push_back(stoi(splitInfo[4]);
+        scores[temp.language][temp.isFE][temp.isSenior][temp.isPizza].push_back(stoi(splitInfo[4]));
     }
-
-
-
-
 
     return answer;
 }

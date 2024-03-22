@@ -1,3 +1,6 @@
 
-	cpp:S1238	":Pass expensive to copy object "str" by reference to const.(”Ì²Éÿÿÿÿÿ8’’Ø‰æ1J$4d09653a-f908-4216-8d13-d154e8859e2b
-^	cpp:S5945*"=Use "std::array" or "std::vector" instead of a C-style array.(­­£ªûÿÿÿÿ8±ÙÜ‰æ1
+	cpp:S1238	":Pass expensive to copy object "str" by reference to const.(”Ì²Éÿÿÿÿÿ8’’Ø‰æ1J$cec10757-dec0-464e-8bd3-185270c11ee1
+W	cpp:S1238(";Pass expensive to copy object "info" by reference to const.(¥“¢ˆ8ğ€‘§æ1
+X	cpp:S1238("<Pass expensive to copy object "query" by reference to const.(¥“¢ˆ8ğ€‘§æ1
+s	cpp:S1172("WRemove the unused parameter "query", make it unnamed, or declare it "[[maybe_unused]]".(¥“¢ˆ8ñ€‘§æ1
+„	cpp:S5945*"=Use "std::array" or "std::vector" instead of a C-style array.(­­£ªûÿÿÿÿ8±ÙÜ‰æ1J$8d6c61ea-4c36-44ba-9fb3-4f527a8e9b41
