@@ -1,99 +1,53 @@
 #include <string>
 #include <vector>
-#include <map>
-#include <bitset>
-#include <iostream>
 #include <sstream>
-#include <algorithm>
+#include <iostream>
+
 
 using namespace std;
 
-struct Info {
-    unsigned int bit;
-    int score;
-};
-
-ostream &operator<<(ostream &os, const vector<Info> &infos) {
-    for (const auto &info: infos) {
-        os << bitset<5>(info.bit) << " " << info.score << endl;
-    }
-    return os;
-}
-
-vector<string> split(const string &str, char Delimiter) {
+vector<string> split(string str, char delimeter) {
     istringstream iss(str);
     string buffer;
     vector<string> result;
 
-    while (getline(iss, buffer, Delimiter)) {
+    while (getline(iss, buffer, delimeter)) {
         result.push_back(buffer);
     }
     return result;
 }
 
-unsigned int getBit(bool isCpp, bool isJava, bool isBack, bool isJunior, bool isChicken) {
-    unsigned int bit = 0b00000;
-    if (isCpp) bit |= 0b10000;
-    else if (isJava) bit |= 0b01000;
+struct Info {
+    int language = 0;
+    int isFE = 0;
+    int isSenior = 0;
+    int isPizza = 0;
 
-    if (isBack) bit |= 0b00100;
-    if (isJunior) bit |= 0b00010;
-    if (isChicken) bit |= 0b00001;
+    static Info fromStr(vector<string> info) {
+        Info temp;
+        if (info[0] == "cpp") temp.language = 0;
+        else if (info[0] == "java") temp.language = 1;
+        else temp.language = 2;
 
-    return bit;
-}
+        if (info[1] == "frontend") temp.isFE = 1;
+        if (info[2] == "senior") temp.isSenior = 1;
+        if (info[3] == "pizza") temp.isPizza = 1;
 
-pair<unsigned char, int> getInfo(const string &in) {
-    vector<string> temp = split(in, ' ');
-    bool isCpp = temp[0] == "cpp";
-    bool isJava = temp[0] == "java";
-    bool isBack = temp[1] == "backend";
-    bool isJunior = temp[2] == "junior";
-    bool isChicken = temp[3] == "chicken";
-
-    unsigned int bit = getBit(isCpp, isJava, isBack, isJunior, isChicken);
-    return make_pair(bit, stoi(temp[4]));
-}
-
-pair<unsigned char, int> getInfoFromQuery(const string &query) {
-    vector<string> temp = split(query, ' ');
-    bool isCpp = temp[0] == "cpp";
-    bool isJava = temp[0] == "java";
-    bool isBack = temp[2] == "backend";
-    bool isJunior = temp[4] == "junior";
-    bool isChicken = temp[6] == "chicken";
-
-    unsigned int bit = getBit(isCpp, isJava, isBack, isJunior, isChicken);
-    return make_pair(bit, stoi(temp[7]));
-}
-
-int countApplicant(const vector<Info> &infos, Info &qInfo) {
-    return std::count_if(infos.begin(), infos.end(),
-                         [qInfo](Info info) {
-                             return (info.bit & qInfo.bit) == qInfo.bit && info.score >= qInfo.score;
-                         });
-}
+        return temp;
+    }
+};
 
 vector<int> solution(vector<string> info, vector<string> query) {
     vector<int> answer;
-    vector<Info> infos;
-    multimap<unsigned char, int> mm{};
-
-    for (const auto &in: info) {
-        mm.insert(getInfo(in));
+    vector<int> scores[3][2][2][2];
+    for (const auto &in : info) {
+        vector<string> splitInfo = split(in, ' ');
+        Info temp = Info::fromStr(splitInfo);
+        scores[temp.language][temp.isFE][temp.isSenior][temp.isPizza].push_back(stoi(splitInfo[4]);
     }
 
-    for (const auto &q: query) {
-        int count = 0;
 
-        auto qString = getInfoFromQuery(q);
-        auto range = mm.equal_range(qString.first);
-        for (auto iter = range.first; iter != range.second; ++iter) {
-            if (iter->second >= qString.second) ++count;
-        }
 
-        answer.push_back(count);
-    }
 
 
     return answer;

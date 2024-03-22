@@ -1,0 +1,11 @@
+
+	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(é¥ƒÌ8öõ¾æ1J$abbc1a15-3d6f-445b-abfe-f1ef1a3e06ea
+c	cpp:S5421"!Global variables should be const.(é¥ƒÌ8÷õ¾æ1J$0219851b-27d8-4379-bb03-a0600ed635ca
+„	cpp:S5945	"=Use "std::array" or "std::vector" instead of a C-style array.(ÏñÛÓøÿÿÿÿ8÷õ¾æ1J$72901e48-d28a-44d7-9558-0a1baf0789a6
+h	cpp:S5421	"!Global variables should be const.(ÏñÛÓøÿÿÿÿ8÷õ¾æ1J$693becab-a07f-407d-8fb0-09c8561cacbc
+€	cpp:S1238">Pass expensive to copy object "queries" by reference to const.(äÈÊ‰8şõ¾æ1J$7b259cfb-f8b2-4f72-b51d-9cb34e419a05
+„	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(’˜ƒŠûÿÿÿÿ8ƒö¾æ1J$98ba119d-8b13-48f5-aab2-d50297affa8b
+€	cpp:S6032"9Avoid this unnecessary copy by using a "const" reference.(¯ÿèÉüÿÿÿÿ8†ö¾æ1J$1e212c3b-ab14-4bf2-8da5-b4cd38583f28
+r	cpp:S1659"0Define each identifier in a dedicated statement.(îĞ8†ö¾æ1J$375c4896-b8e0-4fb8-84d0-a2de215dd212
+b	cpp:S6197@" Replace with "std::ranges::min".(ÔŒ—ù8ö¾æ1J$0af3674a-e200-449c-9ba9-b36b72817d06
+g	cpp:S6197C" Replace with "std::ranges::min".(«ôìüùÿÿÿÿ8ö¾æ1J$89ae04e8-820c-44e5-bb3a-3ff52a954534
